@@ -39,7 +39,8 @@ This project follows the **Medallion Architecture** approach:
 * **Gold Layer** → Business-ready data modeled using a Star Schema for analytics and reporting.
 
 📌 Architecture Diagram:
-![Data Architecture](documents/High-level data architecture diagram.png)
+![Data Architecture](documents/High-level%20data%20architecture%20diagram.png)
+
 
 ---
 
