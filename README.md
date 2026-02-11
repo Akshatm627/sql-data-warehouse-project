@@ -1,9 +1,3 @@
-Here is your complete **README.md** content, customized for *your* project (removed Baraa’s personal branding and external promotions, and kept it professional for your portfolio):
-
-You can directly copy-paste this into your GitHub `README.md`.
-
----
-
 # 🚀 SQL Data Warehouse Project
 
 An end-to-end **Data Warehouse project using SQL Server** and **Medallion Architecture (Bronze, Silver, Gold)**.
