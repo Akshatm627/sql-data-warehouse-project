@@ -4,7 +4,32 @@ An end-to-end **Data Warehouse project using SQL Server** and **Medallion Archit
 This project automates the ETL process to transform raw ERP and CRM data into a structured **Gold layer** optimized for business intelligence and reporting.
 
 ---
+## 🚀 Project Requirements
 
+### 🔹 Data Engineering
+
+**Objective:**
+Build a modern data warehouse in SQL Server for analytical reporting.
+
+**Specifications:**
+
+* Import data from ERP and CRM CSV files
+* Clean and resolve data quality issues
+* Integrate sources into a unified analytical model
+* Focus on the latest dataset (no historization required)
+* Provide documentation for stakeholders
+
+---
+
+### 🔹 Data Analytics
+
+Develop SQL-based analysis to generate insights on:
+
+* Customer behavior
+* Product performance
+* Revenue trends over time
+
+---
 ## 🏗️ Data Architecture
 
 This project follows the **Medallion Architecture** approach:
@@ -44,32 +69,7 @@ This project follows the **Medallion Architecture** approach:
 
 ---
 
-## 🚀 Project Requirements
 
-### 🔹 Data Engineering
-
-**Objective:**
-Build a modern data warehouse in SQL Server for analytical reporting.
-
-**Specifications:**
-
-* Import data from ERP and CRM CSV files
-* Clean and resolve data quality issues
-* Integrate sources into a unified analytical model
-* Focus on the latest dataset (no historization required)
-* Provide documentation for stakeholders
-
----
-
-### 🔹 Data Analytics
-
-Develop SQL-based analysis to generate insights on:
-
-* Customer behavior
-* Product performance
-* Revenue trends over time
-
----
 
 ## 📂 Repository Structure
 
